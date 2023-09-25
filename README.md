@@ -2,8 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Suraj Prasad</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
-<img align="right" alt="connection.save(404)" width="400" src"https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/31566/screenshots/2138452/dribbble-shot.gif" max-width="500px"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajcode49&label=Profile%20views&color=0e75b6&style=flat" alt="surajcode49" /> </p>
 
