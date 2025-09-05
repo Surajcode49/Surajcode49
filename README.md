@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React,Node.js,Javascript,Mongodb**
 
-- 📫 How to reach me **sp2449@cse.jgec.ac.in**
+- 📫 How to reach me **Surajcse78@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_AHLr2Jdx1d_b4qv0cRJUlEZ8TOUATPA/view?usp=sharing](https://drive.google.com/file/d/1_AHLr2Jdx1d_b4qv0cRJUlEZ8TOUATPA/view?usp=sharing)
 
