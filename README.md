@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajcode49&label=Profile%20views&color=0e75b6&style=flat" alt="surajcode49" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://surajcode49.github.io/suraj-portfolio/](https://surajcode49.github.io/)
+- 👨‍💻 All of my projects are available at [https://surajcode49.github.io/surajcode49/](https://surajcode49.github.io/)
 
 - 💬 Ask me about **React,Node.js,Javascript,Mongodb**
 
