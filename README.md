@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Surajcse78@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_AHLr2Jdx1d_b4qv0cRJUlEZ8TOUATPA/view?usp=sharing](https://drive.google.com/file/d/1_AHLr2Jdx1d_b4qv0cRJUlEZ8TOUATPA/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com](https://dri)
 
 - ⚡ Fun fact **I am Funny 😝**
 
